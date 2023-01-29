@@ -1,0 +1,1 @@
+<p>Contact</p><?php /**PATH D:\00 Belajar LKS\companyprofile\resources\views/home/contact/index.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<p>Blog</p><?php /**PATH D:\00 Belajar LKS\companyprofile\resources\views/home/blog/index.blade.php ENDPATH**/ ?>

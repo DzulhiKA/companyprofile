@@ -1,0 +1,8 @@
+[2023-01-29 10:13:50] local.ERROR: Allowed memory size of 536870912 bytes exhausted (tried to allocate 262160384 bytes) {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Allowed memory size of 536870912 bytes exhausted (tried to allocate 262160384 bytes) at D:\\00 Belajar LKS\\companyprofile\\storage\\framework\\views\\97520c384eb7a2916def6f5e3aa79635670151f3.php:92)
+[stacktrace]
+#0 {main}
+"} 
+[2023-01-29 10:14:12] local.ERROR: Allowed memory size of 536870912 bytes exhausted (tried to allocate 266354688 bytes) {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Allowed memory size of 536870912 bytes exhausted (tried to allocate 266354688 bytes) at D:\\00 Belajar LKS\\companyprofile\\storage\\framework\\views\\97520c384eb7a2916def6f5e3aa79635670151f3.php:92)
+[stacktrace]
+#0 {main}
+"} 
